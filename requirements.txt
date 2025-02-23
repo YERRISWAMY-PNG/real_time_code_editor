@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+sqlalchemy==2.0.15
+pymysql==1.0.3
+redis==4.5.5
+python-jose==3.3.0
+passlib==1.7.4
+websockets==11.0.3
+python-dotenv==0.21.0
